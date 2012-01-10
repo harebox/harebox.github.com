@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: notes | magica]]></title>
+  <link href="http://harebox.github.com/blog/categories/notes/atom.xml" rel="self"/>
+  <link href="http://harebox.github.com/"/>
+  <updated>2012-01-10T23:12:10+09:00</updated>
+  <id>http://harebox.github.com/</id>
+  <author>
+    <name><![CDATA[Hoonmin Kim]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[KISS]]></title>
+    <link href="http://harebox.github.com/blog/2012/01/10/notes/"/>
+    <updated>2012-01-10T22:29:00+09:00</updated>
+    <id>http://harebox.github.com/blog/2012/01/10/notes</id>
+    <content type="html"><![CDATA[<p><blockquote><p>It is vain to do with more what can be done with fewer.</p><footer><strong>Occam</strong> <cite>William Of</cite></footer></blockquote></p>
+
+<p>Keep it simple, stupid!</p>
+
+<p>간단하게 디자인하자.</p>
+]]></content>
+  </entry>
+  
+</feed>
